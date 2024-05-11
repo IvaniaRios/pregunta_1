@@ -1,0 +1,14 @@
+.titulo{
+    color:rgb(192, 33, 81);
+    text-align: center;
+}
+.navbar{
+    background-color: rgb(219, 101, 160);
+}
+
+.ventajas {
+    text-align: left;
+}
+footer{
+    background-color: rgba(37, 37, 37, 0.87);
+}
